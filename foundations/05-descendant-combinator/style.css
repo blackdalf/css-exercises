@@ -1,0 +1,9 @@
+
+/* This Descendant Combinator uses a class as an ancestor and type as a child. */
+
+.container p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}

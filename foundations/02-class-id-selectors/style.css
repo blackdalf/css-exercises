@@ -1,0 +1,33 @@
+/* index.html */
+
+.odds {
+
+    /*I had to correct font family--these can be self-defined but I chose the closest approximation VS Code recommended. */    
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: lightcoral;
+    
+}
+
+.big {
+
+    font-size: 24px;
+
+}
+
+/* For these IDs, I should have named them after the element themselves, and not like classes. Since they can only be used once per webpage the names should point to that precise element and not a description of the ID styling. */
+
+#plain-big-blue {
+
+    color: blue;
+    font-size: 36px;
+
+
+}
+
+#light-green-bold {
+
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
